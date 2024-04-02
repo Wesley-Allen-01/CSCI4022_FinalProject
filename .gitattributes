@@ -1,0 +1,2 @@
+data/elections/test/elections_test.csv filter=lfs diff=lfs merge=lfs -text
+data/articles.csv filter=lfs diff=lfs merge=lfs -text
